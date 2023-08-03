@@ -1,5 +1,3 @@
 # my-website
 
-Updating README
-
-Making an edit in the **update-readme** branch.
+Updates made on main before rebase.
