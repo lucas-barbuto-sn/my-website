@@ -10,6 +10,6 @@ on purpose!
 
 The real purpose is to demonstrate Github features.
 
-## Gettin Started
+## Getting Started
 
 Just dive in!
