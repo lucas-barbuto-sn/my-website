@@ -7,3 +7,5 @@ Updates made on main before rebase.
 This repository has one purpose,
 and that's to make changes that mess things up
 on purpose!
+
+The real purpose is to demonstrate Github features.
